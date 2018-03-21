@@ -1,2 +1,2 @@
 # p4
-Hi 
+Hi. Guys please pull though and get your directory set/linked up
